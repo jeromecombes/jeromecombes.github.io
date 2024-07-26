@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Doc 1
-permalink: /doc/
 ---
 
 Nous ajouterons ici la documentation de Planno.

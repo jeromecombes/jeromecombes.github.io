@@ -15,7 +15,7 @@ Webinaire présentation
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rZCgfdz_eBU?si=LBO5bnSYLc-5Kc_Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<iframe width="560" height="315" src="https://www.canva.com/design/DAGMCUqAAyM/zEUPZCGt_E_LC_sBwknXww/view?utm_content=DAGMCUqAAyM&utm_campaign=designshare&utm_medium=link&utm_source=editor" allowfullscreen></iframe>
+<iframe src="https://www.canva.com/design/DAGMCUqAAyM/zEUPZCGt_E_LC_sBwknXww/view?utm_content=DAGMCUqAAyM&utm_campaign=designshare&utm_medium=link&utm_source=editor"></iframe>
 
 You can find the source code for Planno at GitHub:
 [planno][planno-organization] /

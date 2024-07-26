@@ -6,3 +6,10 @@ layout: home
 ---
 
 # Hello world
+
+Bonjour à tous.
+Voici quelques tests avec Jekyll
+
+# Nouveau billet
+
+Voici un autre tests.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Doc
+title: Doc 1
 permalink: /doc/
 ---
 

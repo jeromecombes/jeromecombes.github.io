@@ -10,6 +10,11 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam consectetuer molli
 
 <img src='https://www.planno.fr/wp-content/uploads/2022/04/Planning_menu_website.png' alt='Planno'/>
 
+Webinaire présentation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rZCgfdz_eBU?si=LBO5bnSYLc-5Kc_Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 You can find the source code for Planno at GitHub:
 [planno][planno-organization] /
 [planno](https://github.com/planningbiblio/planningbiblio)
